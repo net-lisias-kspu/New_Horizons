@@ -1,4 +1,4 @@
-# New_Horizons Unofficial
+# New_Horizons :: Change Log
 
 * 2017-0602: 2.0.1 (KillAshley) for KSP 1.3.0
 	+ Fixed SpaceCenter black screen
