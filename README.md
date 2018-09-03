@@ -67,6 +67,7 @@ In your KSP GameData folder, delete any existing EditorExtensions folder. Downlo
 ### Dependencies
 
 * [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/140580-145-4-131-13-kopernicus-kittopiatech/&tab=comments#comment-2602496)
+* [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-141-module-manager-307-may-5th-2018-its-dangerous-to-go-alone-take-those-cats-with-you/)
 
 ### License:
 
