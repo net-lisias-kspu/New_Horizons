@@ -1,5 +1,15 @@
 # New_Horizons Unofficial
 
+* 2015-1119: 1.7 (KillAshley) for KSP 1.0.4
+	+ On-Demand compatibility
+	+ Removed KerbolPlus (Amarius1 version) compatibility
+	+ Added KerbolPlus (KillAshley version) compatibility
+	+ Converted biome maps & rings to .dds
+	+ Fixed ring scaling for kopernicus 0.5
+	+ Tweaked ring inclination for Arin
+	+ Tweaked orbit inclination for Astid
+	+ Set main menu body to Sonnah & moved cfg to it's own patch
+	+ Removed Module Manager from download (please use the MM version included with Kopernicus)
 * 2015-1105: 1.6.7 (KillAshley) for KSP 1.0.4
 	+ Timewarp Tweaks
 	+ Small tweaks
