@@ -1,5 +1,19 @@
 # New_Horizons Unofficial
 
+* 2016-0613: 2.0.0 (KillAshley) for KSP 1.1.2 (?)
+	+ the _overhaul_ edition"
+	+ complete rework of all bodies
+	+ complete rework of all PQSMaterials
+	+ complete rework of all scaledspace gradients
+	+ complete rework of all atmospheres & ambient coloring
+	+ complete rework of all orbits
+	+ removed Lave due to lack of gameplay elements
+	+ reparented Eli to Sonnah
+	+ added asteroid belt between Sonnah & Jool
+	+ added asteroids as simulated debris from Leouch (size to be tweaked in later versions)
+	+ reduced Tidus' atmosphere back to 0.7atm as it originally was intended
+	+ fixed scidefs to refer to new biomes/terrain of planets
+	+ fixed descriptions to refer to bodies new terrain.
 * 2015-1119: 1.7 (KillAshley) for KSP 1.0.4
 	+ On-Demand compatibility
 	+ Removed KerbolPlus (Amarius1 version) compatibility
