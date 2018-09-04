@@ -62,7 +62,7 @@ Community Resource Pack Compatibility
 
 ## Installation
 
-In your KSP GameData folder, delete any existing EditorExtensions folder. Download the zip file to your KSP GameData folder and unzip.﻿
+In your KSP GameData folder, delete any existing `New_Horizons` folder. Download the zip file to your KSP GameData folder and unzip.﻿
 
 ### Dependencies
 
