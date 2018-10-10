@@ -1,10 +1,10 @@
 {
-	"NAME": "New Horizons Planet Pack Unofficial",
-	"URL": "https://raw.githubusercontent.com/net-lisias-kspu/New_Horizons/master/New_Horizons.version",
-	"DOWNLOAD": "https://github.com/net-lisias-kspu/New_Horizons/releases",
+	"NAME"		: "New Horizons Planet Pack Unofficial",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-kspu/New_Horizons/master/New_Horizons.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-kspu/New_Horizons/releases",
 	"GITHUB": {
-		"USERNAME": "net-lisias-kspu",
-		"REPOSITORY": "New_Horizons"
+		"USERNAME"		: "net-lisias-kspu",
+		"REPOSITORY"		: "New_Horizons"
 		},
 	"VERSION":{
 		"MAJOR":2,
