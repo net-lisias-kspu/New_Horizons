@@ -13,9 +13,9 @@ Contributors:
 
 ## In a Hurry
 
-* [Releases](https://github.com/net-lisias-kspu/New_Horizons/tree/Archive)
-* [Source](https://github.com/net-lisias-kspu/New_Horizons)
 * [Latest Release](https://github.com/net-lisias-kspu/New_Horizons/releases)
+	+ [Binaries](https://github.com/net-lisias-kspu/New_Horizons/tree/Archive)
+* [Source](https://github.com/net-lisias-kspu/New_Horizons)
 * [Change Log](./CHANGE_LOG.md)
 
 
