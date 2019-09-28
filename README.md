@@ -76,6 +76,10 @@ In your KSP GameData folder, delete any existing `New_Horizons` folder. Download
 
 ## UPSTREAM
 
-* [KillAshely](https://forum.kerbalspaceprogram.com/index.php?/profile/128696-killashley/)
+* [KillAshely](https://forum.kerbalspaceprogram.com/index.php?/profile/128696-killashley/) CURRENT MAINTAINER
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/102776-13-kopernicus-new-horizons-v201-2jun17-its-back/&tab=comments#comment-1792426)
 	+ [GitHub](https://github.com/KillAshley/New_Horizons)
+* [GregroxMun](https://github.com/GregroxMun) Parallel Fork
+	+ [GitHub](https://github.com/GregroxMun/New_Horizons)
+* [LinuxGuruGamer](https://github.com/linuxgurugamer) Parallel Fork
+	+ [GitHub](https://github.com/linuxgurugamer/New_Horizons)
